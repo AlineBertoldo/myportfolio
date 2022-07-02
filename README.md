@@ -1,3 +1,3 @@
 # myportfolio
 
-Esse é o meu portfólio feito como projeto na ImersãoDev da Alura.
+Portfólio com cada projeto feito por mim e também minhas redes sociais :)
